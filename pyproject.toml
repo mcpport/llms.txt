@@ -1,0 +1,7 @@
+[project]
+name = "llms-txt"
+version = "0.1.0"
+description = "Generate any website's llms.txt locally"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
